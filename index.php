@@ -7,6 +7,7 @@
   <title>Document</title>
 </head>
 <body>
+  <p>dasdas</p>
 <?php
 $serverName = "serverName\sqlexpress"; //serverName\instanceName
 $connectionInfo = array( "Database"=>"dbName", "UID"=>"userName", "PWD"=>"password");
